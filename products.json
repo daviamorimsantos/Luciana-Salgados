@@ -1,0 +1,84 @@
+[
+  {
+    "id": "coxinha",
+    "name": "Coxinha",
+    "desc": "Pacote com 15 unidades.",
+    "price": 30,
+    "category": "fritos",
+    "tag": "Favorito",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "risoles",
+    "name": "Risoles",
+    "desc": "Presunto e queijo. 15 unidades.",
+    "price": 30,
+    "category": "fritos",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "kibe",
+    "name": "Kibe",
+    "desc": "Pacote com 15 unidades.",
+    "price": 30,
+    "category": "fritos",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "bolinha",
+    "name": "Bolinha de queijo",
+    "desc": "Pacote com 15 unidades.",
+    "price": 30,
+    "category": "fritos",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "cento",
+    "name": "Cento frito",
+    "desc": "Misto de salgados fritos, 100 unidades.",
+    "price": 100,
+    "category": "fritos",
+    "tag": "Para festas",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "esfiha",
+    "name": "Esfihas",
+    "desc": "Frango, calabresa com catupiry ou carne. Pacote com 15 unidades.",
+    "price": 30,
+    "category": "assados",
+    "image": "assets/esfihas.jpg"
+  },
+  {
+    "id": "empada",
+    "name": "Empadinhas",
+    "desc": "Frango com catupiry ou palmito. Pacote com 15 unidades.",
+    "price": 30,
+    "category": "assados",
+    "image": "assets/paozinho.jpg"
+  },
+  {
+    "id": "enroladinho",
+    "name": "Enroladinhos",
+    "desc": "Presunto, queijo e orégano. Pacote com 15 unidades.",
+    "price": 30,
+    "category": "assados",
+    "image": "assets/paozinho.jpg"
+  },
+  {
+    "id": "troxinha",
+    "name": "Troxinha",
+    "desc": "Carne de hambúrguer e vinagrete. Pacote com 15 unidades.",
+    "price": 30,
+    "category": "especiais",
+    "image": "assets/hero-assorted.jpg"
+  },
+  {
+    "id": "nhoque",
+    "name": "Nhoque",
+    "desc": "Pacote de 1 kg.",
+    "price": 30,
+    "category": "especiais",
+    "image": "assets/menu-orange.jpg"
+  }
+]
